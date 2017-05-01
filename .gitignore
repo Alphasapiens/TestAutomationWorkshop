@@ -1,0 +1,27 @@
+# Ide genereted files #
+#######################
+.idea
+# Dummy test files #
+####################
+chromedriver.exe
+/TestCases/DummyTestFiles
+# Test genereted files #
+########################
+*.pyc
+*.jpg
+*.gif
+*.png
+*.svg
+*.ico
+*.xml
+*.html
+*.log
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db

@@ -1,0 +1,9 @@
+Login:
+  Email_text: Email
+  Password_text: Password
+  Login_button: css=.btn-lg
+  Facebook_button: Facebook
+  LinkedIn_button: LinkedIn
+  Google_button: Google
+  Register_link: css=.Login-secondaryCTA>a
+  User_profile: css=.Login-userProfile
