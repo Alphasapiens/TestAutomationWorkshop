@@ -1,5 +1,0 @@
-HomePageNavbar:
-  Login: css=.navbar-auth-login
-  SignUp: css=.navbar-auth-signup
-  Translation: css=.TranslationSelector
-  Tabs: css=.navbar-nav>li

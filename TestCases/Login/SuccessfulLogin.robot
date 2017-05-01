@@ -20,15 +20,7 @@ ${Last_Name}  Fadime
 
 *** Test Cases ***
 
-#Open Gittigidiyor
-#    Given Disable notify popup
-#    When search "${SEARCH_VALUE}" from gittigidiyor
-#    Then check actual search keyword is "${SEARCH_VALUE}"
-#    And Get first product values
-#    And click element  ${FIRST_PRODUCT_NAME_ELEMENT}
-#    And Product names must match from product detail page
-#    And click add to cart button
-#    And Product names must match from shopping cart page
+
 
 Open Facebook
     Given Fill name blanks
