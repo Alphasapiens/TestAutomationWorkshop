@@ -1,7 +1,6 @@
 *** Settings ***
 Documentation  A resource file with reusable keywords and variables
 ...
-...            The system common keywords created here for raklet website.
 ...
 Library        Selenium2Library
 Library        String
